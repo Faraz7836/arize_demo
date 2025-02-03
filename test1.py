@@ -8,7 +8,7 @@ from arize.pandas.logger import Client, Schema
 from arize.utils.types import ModelTypes, Environments
 
 # Arize API Credentials
-API_KEY = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3Mzg1NjMyNTYsInVzZXJJZCI6MjEwMTksInV1aWQiOiJiNjEyOTBlNS02Nzg5LTQyMDctOWFjMC00MzczNjQ2Y2ZlNzAiLCJpc3MiOiJodHRwczovL2FwcC5hcml6ZS5jb20ifQ.3KKDYd0gI-ro80FcmWuatt9_DYhtJAjZQGnghSuG9u4"
+API_KEY = "d33ea83d527145c5ae0"
 SPACE_ID = "U3BhY2U6MTUxMDI6dURzQw=="
 arize_client = Client(space_id=SPACE_ID, api_key=API_KEY)
 
